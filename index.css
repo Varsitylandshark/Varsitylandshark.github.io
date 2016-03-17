@@ -1,0 +1,18 @@
+
+.post {
+    background-color: black;
+    height: 200px;
+    color: gray;
+    border-color: gray;
+    border-width: 4px;
+    border-style: solid;
+    padding: 25px;
+    margin: 25px;
+
+}
+
+#mywebsitepost {
+    font-size: 200%;
+
+
+}
